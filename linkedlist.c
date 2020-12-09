@@ -1,6 +1,4 @@
-/* Paul Sanders
-// phs3mr
-// 11/17/16
+/* saulpanders
 // linkedlist.c */
 
 #include <stdio.h>
